@@ -16,3 +16,8 @@ This project analyzes real estate data using Python, Pandas, Seaborn, Matplotlib
 - Missing values filled with mean.
 
 
+## How to Use This Project:
+- Download the `.csv` file for the data set.
+- Download the `.pbix` file and open it in **Power BI Desktop**. 
+- Explore interactive visualizations.  
+- View the full report in the `PowerBI_Report.pdf` file.  
