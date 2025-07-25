@@ -20,4 +20,10 @@ This project analyzes real estate data using Python, Pandas, Seaborn, Matplotlib
 - Download the `.csv` file for the data set.
 - Download the `.pbix` file and open it in **Power BI Desktop**. 
 - Explore interactive visualizations.  
-- View the full report in the `Real_State_Analysis_Dashboard.pdf` file.  
+- View the full report in the `Real_State_Analysis_Dashboard.pdf` file.
+
+## Price per Sqft by City(images/price_per_sqft_by_city.png)
+
+
+## Furnishing status(images/furnishing_status.png)
+
