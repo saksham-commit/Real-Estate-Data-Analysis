@@ -22,8 +22,10 @@ This project analyzes real estate data using Python, Pandas, Seaborn, Matplotlib
 - Explore interactive visualizations.  
 - View the full report in the `Real_State_Analysis_Dashboard.pdf` file.
 
-## Price per Sqft by City(images/price_per_sqft_by_city.png)
+## Screenshots
 
-
-## Furnishing status(images/furnishing_status.png)
+-Price per Sqft by City
+(images/price_per_sqft_by_city.png)
+-Furnishing status
+(images/furnishing_status.png)
 
