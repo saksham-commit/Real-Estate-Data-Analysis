@@ -24,7 +24,7 @@ This project analyzes real estate data using Python, Pandas, Seaborn, Matplotlib
 
 ## Screenshots
 
--[Price per Sqft by City](images/price_per_sqft_by_city.png)
+-[sum_of_area_Sqft by City](images/sum_of_area_sqft_by_city.png)
 
 -[Furnishing status](images/furnishing_status.png)
 
